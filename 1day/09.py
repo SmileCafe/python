@@ -1,0 +1,2 @@
+input(firstName)
+input(LastName)
